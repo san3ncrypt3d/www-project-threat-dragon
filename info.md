@@ -27,4 +27,4 @@
 
 ### Licensing
 
-* [Apache 2 License](https://www.apache.org/licenses/LICENSE-2.0)
+* [BSD 2-Clause "Simplified" License]([https://www.apache.org/licenses/LICENSE-2.0](https://opensource.org/license/bsd-2-clause)https://opensource.org/license/bsd-2-clause)
